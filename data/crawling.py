@@ -10,6 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from dotenv import load_dotenv
 import os
+import numpy as pd
 
 load_dotenv()
 total_df = pd.DataFrame()
