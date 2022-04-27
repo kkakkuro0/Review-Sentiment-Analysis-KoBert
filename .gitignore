@@ -1,0 +1,8 @@
+.env
+review.csv
+review1.csv
+review2.csv
+review3.csv
+review4.csv
+review5.csv
+new_crawler.py
